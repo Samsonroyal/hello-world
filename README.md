@@ -1,8 +1,8 @@
 # hello-world
-my first repository and initial life enjoy this
-i was born on saturn am a saturnalia
-i have been to mars
-i had my education on jupiter
-iwould like to get married on venus to a venusuvian
-now am on earth 
-hello earth
+My first repo is a basic website. Built in HTML, CSS and JS.
+
+//
+hello earthlings, I hope you enjoy it
+
+//
+I have no idea what it does..
